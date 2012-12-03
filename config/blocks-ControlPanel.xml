@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<p n="width" v="180" />
+	<p n="height" v="30" />
+	<p n="bgColor" v="0x9dc674" />
+	<p n="bgAlpha" v="0.5" />
+</config>

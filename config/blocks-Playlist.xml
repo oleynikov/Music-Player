@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<p n="width" v="180" />
+	<p n="height" v="400" />
+	<p n="bgColor" v="0xd8e5f7" />
+	<p n="bgAlpha" v="1" />
+	<p n="fontFamily" v="Tahoma" />
+	<p n="fontSize" v="10" />
+	<p n="fontColor" v="0x101010" />
+</config>
